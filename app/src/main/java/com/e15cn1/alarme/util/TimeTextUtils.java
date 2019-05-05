@@ -24,9 +24,6 @@ import android.text.Spanned;
 import android.text.style.RelativeSizeSpan;
 import android.widget.TextView;
 
-/**
- * Created by Phillip Hsu on 7/16/2016.
- */
 public class TimeTextUtils {
 
     private TimeTextUtils() {}
